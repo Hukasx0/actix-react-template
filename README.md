@@ -2,6 +2,7 @@
 A fullstack project template that can be compiled into a single binary. Template uses:
 - Rust + Actix-web - backend
 - Typescript + React (tsx) - frontend
+- Scss - but you can also use regular Css
 - Vite - build
 
 ## Usage
@@ -20,7 +21,7 @@ watch for React changes:
 ```sh
 npm run dev
 ```
-watch for Rust changes:
+watch for Rust changes (React needs to be built first! ```npm run build```):
 ```sh
 npm run dev-rs
 ```
