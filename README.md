@@ -21,7 +21,7 @@ watch for React changes:
 ```sh
 npm run dev
 ```
-watch for Rust changes (React needs to be built first! ```npm run build```):
+watch for Rust changes:
 ```sh
 npm run dev-rs
 ```
