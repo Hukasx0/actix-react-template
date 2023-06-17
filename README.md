@@ -6,6 +6,9 @@
 <a href="https://www.typescriptlang.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40px" />
 </a>
+<a href="https://vitejs.dev/">
+  <img src="https://vitejs.dev/logo.svg" width="40" height="40" alt="Actix framework logo">
+</a>
 <a href="https://sass-lang.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40px" />
 </a>
@@ -20,8 +23,8 @@
 A fullstack project template that can be compiled into a single binary. Template uses:
 - Rust + Actix-web - backend
 - Typescript + React (tsx) - frontend
-- Scss - but you can also use regular Css
-- Vite - build
+- Vite, Cargo - build
+- Sass - but you can also use regular css
 
 ## Usage
 
