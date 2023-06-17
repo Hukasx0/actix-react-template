@@ -1,4 +1,22 @@
 # React + Rust project template
+<div>
+<a href="https://react.dev/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40px" />
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40px" />
+</a>
+<a href="https://sass-lang.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40px" />
+</a>
+<a href="https://www.rust-lang.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40px" />
+</a>
+<a href="https://actix.rs/">
+  <img src="https://actix.rs/img/logo.png" width="40" height="40" alt="Actix framework logo">
+</a>
+</div>
+
 A fullstack project template that can be compiled into a single binary. Template uses:
 - Rust + Actix-web - backend
 - Typescript + React (tsx) - frontend
